@@ -1,0 +1,769 @@
+id,link,Source,Content,Purpose,Annotation,Text (image contain text),Can the text be useful?,Relevance of Image,Can we replace image easily by text using image processor
+702519,https://stackoverflow.com/questions/702519,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+1840868,https://stackoverflow.com/questions/1840868,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+1944965,https://stackoverflow.com/questions/1944965,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+2484518,https://stackoverflow.com/questions/2484518,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+2513412,https://stackoverflow.com/questions/2513412,Web Browser,User interface,Desired output,Yes,Yes,No,Essential,No
+3155960,https://stackoverflow.com/questions/3155960,404,404,404,404,404,404,404,404
+3348818,https://stackoverflow.com/questions/3348818,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+4315529,https://stackoverflow.com/questions/4315529,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+5097619,https://stackoverflow.com/questions/5097619,404,404,404,404,404,404,404,404
+5133554,https://stackoverflow.com/questions/5133554,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+5230999,https://stackoverflow.com/questions/5230999,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+5279142,https://stackoverflow.com/questions/5279142,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,Yes
+5577807,https://stackoverflow.com/questions/5577807,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+6091242,https://stackoverflow.com/questions/6091242,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+6279611,https://stackoverflow.com/questions/6279611,Desktop Application,Results,Undesired outpu,No,Yes,No,Not Essential,No
+6567720,https://stackoverflow.com/questions/6567720,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+6766515,https://stackoverflow.com/questions/6766515,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+7293153,https://stackoverflow.com/questions/7293153,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+7530702,https://stackoverflow.com/questions/7530702,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+7540169,https://stackoverflow.com/questions/7540169,404,404,404,404,404,404,404,404
+7644111,https://stackoverflow.com/questions/7644111,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+7838323,https://stackoverflow.com/questions/7838323,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+7878086,https://stackoverflow.com/questions/7878086,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+8110518,https://stackoverflow.com/questions/8110518,Web Browser,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+8125085,https://stackoverflow.com/questions/8125085,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+8166126,https://stackoverflow.com/questions/8166126,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+8363440,https://stackoverflow.com/questions/8363440,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+8485230,https://stackoverflow.com/questions/8485230,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+8865704,https://stackoverflow.com/questions/8865704,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+8924900,https://stackoverflow.com/questions/8924900,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,Yes
+9063876,https://stackoverflow.com/questions/9063876,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+9174540,https://stackoverflow.com/questions/9174540,User-created,Diagram,Desired output,Yes,Yes,No,Essential,No
+9358976,https://stackoverflow.com/questions/9358976,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+9640531,https://stackoverflow.com/questions/9640531,Others,Diagram,Others,No,No,No,Not Essential,No
+9667165,https://stackoverflow.com/questions/9667165,User-created,Diagram,Desired output,Yes,Yes,No,Essential,No
+9678008,https://stackoverflow.com/questions/9678008,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+9814386,https://stackoverflow.com/questions/9814386,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+9980104,https://stackoverflow.com/questions/9980104,Web Browser,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+10020596,https://stackoverflow.com/questions/10020596,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+10530781,https://stackoverflow.com/questions/10530781,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+10758106,https://stackoverflow.com/questions/10758106,User-created,Diagram,Undesired outpu,Yes,No,No,Essential,No
+11027136,https://stackoverflow.com/questions/11027136,404,404,404,404,404,404,404,404
+11398060,https://stackoverflow.com/questions/11398060,Desktop Application,configuration,Context understanding,No,Yes,Yes,Essential,No
+11405167,https://stackoverflow.com/questions/11405167,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+11663314,https://stackoverflow.com/questions/11663314,User-created,Diagram,Undesired outpu,No,Yes,No,Essential,Yes
+11685857,https://stackoverflow.com/questions/11685857,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+11746634,https://stackoverflow.com/questions/11746634,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+11783617,https://stackoverflow.com/questions/11783617,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+11835435,https://stackoverflow.com/questions/11835435,Mobile Application,Results,Undesired outpu,No,No,No,Not Essential,No
+11988077,https://stackoverflow.com/questions/11988077,Desktop Application,Source code,Context understanding,No,Yes,Yes,Not Essential,Yes
+12082796,https://stackoverflow.com/questions/12082796,Desktop Application,configuration,Context understanding,No,Yes,No,Essential,No
+12154010,https://stackoverflow.com/questions/12154010,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+12215977,https://stackoverflow.com/questions/12215977,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+12636212,https://stackoverflow.com/questions/12636212,404,404,404,404,404,404,404,404
+13132805,https://stackoverflow.com/questions/13132805,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+13151298,https://stackoverflow.com/questions/13151298,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+13551696,https://stackoverflow.com/questions/13551696,Desktop Application,User interface,Desired output,Yes,Yes,No,Essential,No
+13693776,https://stackoverflow.com/questions/13693776,User-created,User interface,Context understanding,No,Yes,No,Essential,No
+13884738,https://stackoverflow.com/questions/13884738,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+13899489,https://stackoverflow.com/questions/13899489,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+14195794,https://stackoverflow.com/questions/14195794,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+14300520,https://stackoverflow.com/questions/14300520,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+14418734,https://stackoverflow.com/questions/14418734,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+14556748,https://stackoverflow.com/questions/14556748,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+14656572,https://stackoverflow.com/questions/14656572,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+14728695,https://stackoverflow.com/questions/14728695,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+14767330,https://stackoverflow.com/questions/14767330,404,404,404,404,404,404,404,404
+14972025,https://stackoverflow.com/questions/14972025,Desktop Application,configuration,Context understanding,No,Yes,Yes,Essential,Yes
+15092013,https://stackoverflow.com/questions/15092013,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+15180709,https://stackoverflow.com/questions/15180709,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+15560814,https://stackoverflow.com/questions/15560814,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+15584176,https://stackoverflow.com/questions/15584176,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+15723653,https://stackoverflow.com/questions/15723653,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+15790152,https://stackoverflow.com/questions/15790152,Desktop Application,Results,Desired output,No,Yes,No,Essential,No
+15836688,https://stackoverflow.com/questions/15836688,Mobile Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+16004411,https://stackoverflow.com/questions/16004411,User-created,Diagram,Context understanding,Yes,No,No,Not Essential,No
+16018243,https://stackoverflow.com/questions/16018243,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+16056718,https://stackoverflow.com/questions/16056718,404,404,404,404,404,404,404,404
+16077202,https://stackoverflow.com/questions/16077202,Web Browser,User interface,Desired output,Yes,Yes,No,Essential,No
+16292283,https://stackoverflow.com/questions/16292283,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+16320983,https://stackoverflow.com/questions/16320983,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+16355313,https://stackoverflow.com/questions/16355313,User-created,Diagram,Desired output,Yes,Yes,No,Essential,No
+16493856,https://stackoverflow.com/questions/16493856,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+16495521,https://stackoverflow.com/questions/16495521,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+16612439,https://stackoverflow.com/questions/16612439,Web Browser,Results,Undesired outpu,No,No,No,Essential,No
+16671419,https://stackoverflow.com/questions/16671419,Others,User interface,Context understanding,No,Yes,No,Essential,Yes
+16719466,https://stackoverflow.com/questions/16719466,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+16970183,https://stackoverflow.com/questions/16970183,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+17144039,https://stackoverflow.com/questions/17144039,Desktop Application,Results,Context understanding,No,Yes,Yes,Not Essential,No
+17663775,https://stackoverflow.com/questions/17663775,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+18169040,https://stackoverflow.com/questions/18169040,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+18182599,https://stackoverflow.com/questions/18182599,Web Browser,User interface,Desired output,Yes,Yes,No,Essential,No
+18199956,https://stackoverflow.com/questions/18199956,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+18429663,https://stackoverflow.com/questions/18429663,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+18560097,https://stackoverflow.com/questions/18560097,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+18581319,https://stackoverflow.com/questions/18581319,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+19039821,https://stackoverflow.com/questions/19039821,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+19054144,https://stackoverflow.com/questions/19054144,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+19177819,https://stackoverflow.com/questions/19177819,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+19183095,https://stackoverflow.com/questions/19183095,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+19195003,https://stackoverflow.com/questions/19195003,User-created,Results,Context understanding,No,Yes,No,Essential,No
+19313609,https://stackoverflow.com/questions/19313609,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+19347217,https://stackoverflow.com/questions/19347217,Desktop Application,configuration,Context understanding,No,Yes,No,Not Essential,Yes
+19354774,https://stackoverflow.com/questions/19354774,Desktop Application,User interface,Context understanding,No,Yes,Yes,Not Essential,Yes
+19426186,https://stackoverflow.com/questions/19426186,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+19456183,https://stackoverflow.com/questions/19456183,404,404,404,404,404,404,404,404
+19617192,https://stackoverflow.com/questions/19617192,Mobile Application,User interface,Context understanding,No,Yes,No,Essential,No
+19648719,https://stackoverflow.com/questions/19648719,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+19740683,https://stackoverflow.com/questions/19740683,Web Browser,Results,Context understanding,No,Yes,Yes,Essential,Yes
+19887365,https://stackoverflow.com/questions/19887365,Web Browser,configuration,Context understanding,Yes,Yes,No,Essential,No
+19912736,https://stackoverflow.com/questions/19912736,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+19918985,https://stackoverflow.com/questions/19918985,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+19990121,https://stackoverflow.com/questions/19990121,404,404,404,404,404,404,404,404
+20027860,https://stackoverflow.com/questions/20027860,404,404,404,404,404,404,404,404
+20182974,https://stackoverflow.com/questions/20182974,Desktop Application,Source code,Context understanding,Yes,Yes,Yes,Essential,Yes
+20198915,https://stackoverflow.com/questions/20198915,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+20223048,https://stackoverflow.com/questions/20223048,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+20243322,https://stackoverflow.com/questions/20243322,Mobile Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+20303508,https://stackoverflow.com/questions/20303508,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+20409971,https://stackoverflow.com/questions/20409971,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+20466637,https://stackoverflow.com/questions/20466637,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+20528740,https://stackoverflow.com/questions/20528740,User-created,Diagram,Desired output,No,Yes,No,Essential,Yes
+20533971,https://stackoverflow.com/questions/20533971,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+20624901,https://stackoverflow.com/questions/20624901,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+20636419,https://stackoverflow.com/questions/20636419,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+20736661,https://stackoverflow.com/questions/20736661,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+20816460,https://stackoverflow.com/questions/20816460,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+20816927,https://stackoverflow.com/questions/20816927,Web Browser,Results,Undesired outpu,No,No,No,Essential,No
+20826952,https://stackoverflow.com/questions/20826952,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+20858452,https://stackoverflow.com/questions/20858452,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+20901915,https://stackoverflow.com/questions/20901915,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+20952085,https://stackoverflow.com/questions/20952085,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+21161649,https://stackoverflow.com/questions/21161649,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,No
+21185478,https://stackoverflow.com/questions/21185478,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+21214118,https://stackoverflow.com/questions/21214118,Web Browser,User interface,Desired output,Yes,Yes,No,Essential,No
+21368251,https://stackoverflow.com/questions/21368251,Desktop Application,Error code,Context understanding,No,Yes,Yes,Essential,Yes
+21459190,https://stackoverflow.com/questions/21459190,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+21514002,https://stackoverflow.com/questions/21514002,Desktop Application,Results,Context understanding,No,Yes,Yes,Essential,No
+21554611,https://stackoverflow.com/questions/21554611,User-created,Diagram,Context understanding,No,No,No,Not Essential,No
+21631763,https://stackoverflow.com/questions/21631763,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+21637355,https://stackoverflow.com/questions/21637355,Desktop Application,Results,Context understanding,No,Yes,No,Essential,Yes
+21734200,https://stackoverflow.com/questions/21734200,Desktop Application,configuration,Context understanding,No,Yes,No,Essential,No
+21968813,https://stackoverflow.com/questions/21968813,User-created,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+22021708,https://stackoverflow.com/questions/22021708,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+22027145,https://stackoverflow.com/questions/22027145,Mobile Application,User interface,Desired output,No,Yes,Yes,Essential,No
+22056821,https://stackoverflow.com/questions/22056821,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+22473872,https://stackoverflow.com/questions/22473872,404,404,404,404,404,404,404,404
+22552011,https://stackoverflow.com/questions/22552011,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,Yes
+22577644,https://stackoverflow.com/questions/22577644,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+22619268,https://stackoverflow.com/questions/22619268,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+22857802,https://stackoverflow.com/questions/22857802,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+22952316,https://stackoverflow.com/questions/22952316,Web Browser,User interface,Context understanding,No,Yes,Yes,Not Essential,Yes
+23229314,https://stackoverflow.com/questions/23229314,Web Browser,User interface,Desired output,No,Yes,No,Not Essential,Yes
+23577074,https://stackoverflow.com/questions/23577074,User-created,Diagram,Context understanding,No,Yes,No,Essential,Yes
+23787372,https://stackoverflow.com/questions/23787372,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+23903151,https://stackoverflow.com/questions/23903151,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+23936715,https://stackoverflow.com/questions/23936715,User-created,Diagram,Context understanding,No,Yes,No,Not Essential,Yes
+24008500,https://stackoverflow.com/questions/24008500,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+24098301,https://stackoverflow.com/questions/24098301,Desktop Application,User interface,Context understanding,No,Yes,Yes,Not Essential,No
+24184274,https://stackoverflow.com/questions/24184274,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+24270483,https://stackoverflow.com/questions/24270483,Mobile Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+24350030,https://stackoverflow.com/questions/24350030,User-created,Diagram,Context understanding,No,No,No,Not Essential,No
+24379061,https://stackoverflow.com/questions/24379061,Web Browser,User interface,Context understanding,No,Yes,Yes,Essential,No
+24433342,https://stackoverflow.com/questions/24433342,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+24438085,https://stackoverflow.com/questions/24438085,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+24581737,https://stackoverflow.com/questions/24581737,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+24683700,https://stackoverflow.com/questions/24683700,User-created,Diagram,Desired output,Yes,No,No,Essential,No
+24684959,https://stackoverflow.com/questions/24684959,404,404,404,404,404,404,404,404
+24851546,https://stackoverflow.com/questions/24851546,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,Yes
+24960214,https://stackoverflow.com/questions/24960214,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,No
+24983989,https://stackoverflow.com/questions/24983989,Mobile Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+25300975,https://stackoverflow.com/questions/25300975,Desktop Application,Results,Context understanding,No,Yes,No,Essential,Yes
+25342383,https://stackoverflow.com/questions/25342383,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+25521242,https://stackoverflow.com/questions/25521242,Desktop Application,User interface,Undesired outpu,Yes,Yes,Yes,Essential,Yes
+25532049,https://stackoverflow.com/questions/25532049,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+25794314,https://stackoverflow.com/questions/25794314,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+25899826,https://stackoverflow.com/questions/25899826,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+26004550,https://stackoverflow.com/questions/26004550,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+26042472,https://stackoverflow.com/questions/26042472,404,404,404,404,404,404,404,404
+26061679,https://stackoverflow.com/questions/26061679,404,404,404,404,404,404,404,404
+26109957,https://stackoverflow.com/questions/26109957,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+26199478,https://stackoverflow.com/questions/26199478,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+26305230,https://stackoverflow.com/questions/26305230,404,404,404,404,404,404,404,404
+26379355,https://stackoverflow.com/questions/26379355,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+26397782,https://stackoverflow.com/questions/26397782,Desktop Application,Results,Desired output,No,No,No,Essential,No
+26413537,https://stackoverflow.com/questions/26413537,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+26686863,https://stackoverflow.com/questions/26686863,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+26867010,https://stackoverflow.com/questions/26867010,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+27033786,https://stackoverflow.com/questions/27033786,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+27099269,https://stackoverflow.com/questions/27099269,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+27243947,https://stackoverflow.com/questions/27243947,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+27267123,https://stackoverflow.com/questions/27267123,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+27364591,https://stackoverflow.com/questions/27364591,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+27383502,https://stackoverflow.com/questions/27383502,Desktop Application,User interface,Context understanding,Yes,Yes,Yes,Essential,No
+27658679,https://stackoverflow.com/questions/27658679,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+27668657,https://stackoverflow.com/questions/27668657,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+27691475,https://stackoverflow.com/questions/27691475,Web Browser,Results,Desired output,No,Yes,No,Essential,No
+27717304,https://stackoverflow.com/questions/27717304,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+27956267,https://stackoverflow.com/questions/27956267,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+27969375,https://stackoverflow.com/questions/27969375,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+28008938,https://stackoverflow.com/questions/28008938,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+28034924,https://stackoverflow.com/questions/28034924,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+28114971,https://stackoverflow.com/questions/28114971,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,Yes
+28122107,https://stackoverflow.com/questions/28122107,Desktop Application,Source code,Context understanding,Yes,Yes,No,Not Essential,No
+28123349,https://stackoverflow.com/questions/28123349,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+28185258,https://stackoverflow.com/questions/28185258,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+28379830,https://stackoverflow.com/questions/28379830,404,404,404,404,404,404,404,404
+28424952,https://stackoverflow.com/questions/28424952,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+28428589,https://stackoverflow.com/questions/28428589,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,No
+28451929,https://stackoverflow.com/questions/28451929,User-created,Diagram,Desired output,Yes,Yes,No,Essential,No
+28534538,https://stackoverflow.com/questions/28534538,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+28667731,https://stackoverflow.com/questions/28667731,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+28736876,https://stackoverflow.com/questions/28736876,User-created,Diagram,Context understanding,Yes,Yes,No,Not Essential,Yes
+28869268,https://stackoverflow.com/questions/28869268,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+28988624,https://stackoverflow.com/questions/28988624,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+29018281,https://stackoverflow.com/questions/29018281,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+29357739,https://stackoverflow.com/questions/29357739,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+29414806,https://stackoverflow.com/questions/29414806,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+29460140,https://stackoverflow.com/questions/29460140,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+29482517,https://stackoverflow.com/questions/29482517,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+29518386,https://stackoverflow.com/questions/29518386,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+30102959,https://stackoverflow.com/questions/30102959,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+30106659,https://stackoverflow.com/questions/30106659,Mobile Application,User interface,Context understanding,No,Yes,No,Essential,No
+30334876,https://stackoverflow.com/questions/30334876,Desktop Application,User interface,Undesired outpu,No,No,No,Not Essential,No
+30349548,https://stackoverflow.com/questions/30349548,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+30542373,https://stackoverflow.com/questions/30542373,404,404,404,404,404,404,404,404
+30583971,https://stackoverflow.com/questions/30583971,Mobile Application,Results,Undesired outpu,Yes,Yes,No,Essential,No
+30688702,https://stackoverflow.com/questions/30688702,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+30696117,https://stackoverflow.com/questions/30696117,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,Yes
+30801182,https://stackoverflow.com/questions/30801182,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+30820912,https://stackoverflow.com/questions/30820912,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+30927680,https://stackoverflow.com/questions/30927680,Desktop Application,User interface,Desired output,Yes,Yes,No,Not Essential,No
+31059251,https://stackoverflow.com/questions/31059251,Mobile Application,User interface,Desired output,No,Yes,No,Not Essential,No
+31082160,https://stackoverflow.com/questions/31082160,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+31133384,https://stackoverflow.com/questions/31133384,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+31320990,https://stackoverflow.com/questions/31320990,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+31340922,https://stackoverflow.com/questions/31340922,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,No
+31345839,https://stackoverflow.com/questions/31345839,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+31370325,https://stackoverflow.com/questions/31370325,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+31477454,https://stackoverflow.com/questions/31477454,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+31530303,https://stackoverflow.com/questions/31530303,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,No
+31604163,https://stackoverflow.com/questions/31604163,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+31606976,https://stackoverflow.com/questions/31606976,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+31670131,https://stackoverflow.com/questions/31670131,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+31703155,https://stackoverflow.com/questions/31703155,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+31706290,https://stackoverflow.com/questions/31706290,404,404,404,404,404,404,404,404
+31893870,https://stackoverflow.com/questions/31893870,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+31920664,https://stackoverflow.com/questions/31920664,Desktop Application,User interface,Desired output,No,Yes,No,Not Essential,No
+31956478,https://stackoverflow.com/questions/31956478,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,Yes
+31985279,https://stackoverflow.com/questions/31985279,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+31988019,https://stackoverflow.com/questions/31988019,User-created,Diagram,Context understanding,No,Yes,Yes,Not Essential,No
+32014674,https://stackoverflow.com/questions/32014674,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+32116324,https://stackoverflow.com/questions/32116324,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+32122789,https://stackoverflow.com/questions/32122789,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+32145966,https://stackoverflow.com/questions/32145966,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+32268604,https://stackoverflow.com/questions/32268604,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+32281632,https://stackoverflow.com/questions/32281632,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+32355214,https://stackoverflow.com/questions/32355214,Desktop Application,Results,Context understanding,No,Yes,Yes,Essential,Yes
+32462329,https://stackoverflow.com/questions/32462329,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,Yes
+32485562,https://stackoverflow.com/questions/32485562,Desktop Application,Results,Undesired outpu,Yes,Yes,No,Essential,No
+32580914,https://stackoverflow.com/questions/32580914,Desktop Application,Error code,Undesired outpu,Yes,Yes,Yes,Essential,No
+32638535,https://stackoverflow.com/questions/32638535,404,404,404,404,404,404,404,404
+32664880,https://stackoverflow.com/questions/32664880,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+32709512,https://stackoverflow.com/questions/32709512,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+32765847,https://stackoverflow.com/questions/32765847,Desktop Application,Source code,Context understanding,Yes,Yes,Yes,Essential,Yes
+32767945,https://stackoverflow.com/questions/32767945,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+32880577,https://stackoverflow.com/questions/32880577,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+32932518,https://stackoverflow.com/questions/32932518,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+32950071,https://stackoverflow.com/questions/32950071,404,404,404,404,404,404,404,404
+32951267,https://stackoverflow.com/questions/32951267,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+32980960,https://stackoverflow.com/questions/32980960,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+33048153,https://stackoverflow.com/questions/33048153,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+33161850,https://stackoverflow.com/questions/33161850,Desktop Application,Results,Undesired outpu,No,Yes,No,Not Essential,No
+33210593,https://stackoverflow.com/questions/33210593,Desktop Application,User interface,Context understanding,No,No,No,Not Essential,No
+33226863,https://stackoverflow.com/questions/33226863,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+33251291,https://stackoverflow.com/questions/33251291,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+33267279,https://stackoverflow.com/questions/33267279,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+33339913,https://stackoverflow.com/questions/33339913,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+33427452,https://stackoverflow.com/questions/33427452,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+33599602,https://stackoverflow.com/questions/33599602,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+33626371,https://stackoverflow.com/questions/33626371,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+33628929,https://stackoverflow.com/questions/33628929,User-created,Diagram,Context understanding,No,Yes,No,Essential,Yes
+33663263,https://stackoverflow.com/questions/33663263,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+33686302,https://stackoverflow.com/questions/33686302,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+33740730,https://stackoverflow.com/questions/33740730,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+33904082,https://stackoverflow.com/questions/33904082,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+34040562,https://stackoverflow.com/questions/34040562,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+34064853,https://stackoverflow.com/questions/34064853,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+34099484,https://stackoverflow.com/questions/34099484,Desktop Application,Results,Context understanding,No,Yes,Yes,Not Essential,No
+34104669,https://stackoverflow.com/questions/34104669,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,Yes
+34169402,https://stackoverflow.com/questions/34169402,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+34201549,https://stackoverflow.com/questions/34201549,Desktop Application,Source code,Context understanding,No,Yes,Yes,Not Essential,No
+34280494,https://stackoverflow.com/questions/34280494,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+34332893,https://stackoverflow.com/questions/34332893,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+34390408,https://stackoverflow.com/questions/34390408,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+34411437,https://stackoverflow.com/questions/34411437,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34453529,https://stackoverflow.com/questions/34453529,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+34468109,https://stackoverflow.com/questions/34468109,Web Browser,Error code,Undesired outpu,Yes,Yes,Yes,Essential,No
+34475590,https://stackoverflow.com/questions/34475590,Web Browser,User interface,Undesired outpu,No,No,No,Not Essential,No
+34523241,https://stackoverflow.com/questions/34523241,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+34578929,https://stackoverflow.com/questions/34578929,Web Browser,User interface,undesired output,No,Yes,No,Essential,No
+34584504,https://stackoverflow.com/questions/34584504,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34643685,https://stackoverflow.com/questions/34643685,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34649694,https://stackoverflow.com/questions/34649694,User-created,Diagram,Context understanding,Yes,No,No,Essential,No
+34718848,https://stackoverflow.com/questions/34718848,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+34737638,https://stackoverflow.com/questions/34737638,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34785682,https://stackoverflow.com/questions/34785682,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+34847481,https://stackoverflow.com/questions/34847481,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+34886443,https://stackoverflow.com/questions/34886443,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+34956207,https://stackoverflow.com/questions/34956207,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34961940,https://stackoverflow.com/questions/34961940,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+34983072,https://stackoverflow.com/questions/34983072,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+34990685,https://stackoverflow.com/questions/34990685,Others,Others,Context understanding,No,No,No,Not Essential,No
+34991013,https://stackoverflow.com/questions/34991013,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+35093547,https://stackoverflow.com/questions/35093547,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+35278219,https://stackoverflow.com/questions/35278219,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+35385773,https://stackoverflow.com/questions/35385773,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+35417616,https://stackoverflow.com/questions/35417616,Desktop Application,Source code,Undesired outpu,No,Yes,Yes,Essential,Yes
+35437852,https://stackoverflow.com/questions/35437852,Web Browser,User interface,Context understanding,No,Yes,Yes,Not Essential,Yes
+35501119,https://stackoverflow.com/questions/35501119,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+35547699,https://stackoverflow.com/questions/35547699,Web Browser,Error code,Undesired outpu,No,Yes,No,Not Essential,No
+35580296,https://stackoverflow.com/questions/35580296,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+35639846,https://stackoverflow.com/questions/35639846,Web Browser,User interface,undesired output,No,Yes,No,Essential,No
+35661786,https://stackoverflow.com/questions/35661786,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+35672577,https://stackoverflow.com/questions/35672577,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+35869497,https://stackoverflow.com/questions/35869497,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+35931048,https://stackoverflow.com/questions/35931048,Desktop Application,Error code,Undesired outpu,Yes,Yes,Yes,Essential,Yes
+36111589,https://stackoverflow.com/questions/36111589,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+36122601,https://stackoverflow.com/questions/36122601,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+36165702,https://stackoverflow.com/questions/36165702,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+36167064,https://stackoverflow.com/questions/36167064,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+36205082,https://stackoverflow.com/questions/36205082,Desktop Application,Error code,Undesired outpu,No,Yes,No,Essential,Yes
+36251598,https://stackoverflow.com/questions/36251598,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+36372890,https://stackoverflow.com/questions/36372890,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+36447301,https://stackoverflow.com/questions/36447301,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+36460671,https://stackoverflow.com/questions/36460671,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+36476910,https://stackoverflow.com/questions/36476910,Desktop Application,Results,Undesired outpu,Yes,Yes,No,Essential,No
+36589233,https://stackoverflow.com/questions/36589233,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+36663145,https://stackoverflow.com/questions/36663145,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+36672811,https://stackoverflow.com/questions/36672811,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+36822955,https://stackoverflow.com/questions/36822955,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+36847687,https://stackoverflow.com/questions/36847687,Desktop Application,Results,Context understanding,No,Yes,No,Not Essential,No
+36866090,https://stackoverflow.com/questions/36866090,Mobile Application,User interface,Context understanding,No,Yes,No,Essential,No
+36937673,https://stackoverflow.com/questions/36937673,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+36959779,https://stackoverflow.com/questions/36959779,Desktop Application,Source code,Context understanding,No,Yes,No,Not Essential,Yes
+36973723,https://stackoverflow.com/questions/36973723,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+37059749,https://stackoverflow.com/questions/37059749,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+37059893,https://stackoverflow.com/questions/37059893,Desktop Application,Diagram,Desired output,No,Yes,No,Essential,Yes
+37089946,https://stackoverflow.com/questions/37089946,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+37146616,https://stackoverflow.com/questions/37146616,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+37206452,https://stackoverflow.com/questions/37206452,Desktop Application,User interface,Desired output,Yes,Yes,No,Essential,No
+37235550,https://stackoverflow.com/questions/37235550,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+37326429,https://stackoverflow.com/questions/37326429,Web Browser,User interface,Context understanding,No,Yes,Yes,Essential,No
+37379411,https://stackoverflow.com/questions/37379411,User-created,Diagram,Desired output,Yes,Yes,No,Essential,No
+37426885,https://stackoverflow.com/questions/37426885,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+37448651,https://stackoverflow.com/questions/37448651,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+37496412,https://stackoverflow.com/questions/37496412,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+37512644,https://stackoverflow.com/questions/37512644,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+37530845,https://stackoverflow.com/questions/37530845,Desktop Application,User interface,Desired output,Yes,Yes,No,Essential,Yes
+37555837,https://stackoverflow.com/questions/37555837,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+37638873,https://stackoverflow.com/questions/37638873,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+37650353,https://stackoverflow.com/questions/37650353,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+37653622,https://stackoverflow.com/questions/37653622,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+37721958,https://stackoverflow.com/questions/37721958,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+37735105,https://stackoverflow.com/questions/37735105,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,Yes
+37828015,https://stackoverflow.com/questions/37828015,Desktop Application,User interface,Desired output,No,No,No,Not Essential,No
+37920929,https://stackoverflow.com/questions/37920929,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+38077052,https://stackoverflow.com/questions/38077052,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+38080237,https://stackoverflow.com/questions/38080237,Desktop Application,Diagram,Context understanding,Yes,Yes,No,Essential,No
+38200832,https://stackoverflow.com/questions/38200832,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+38349486,https://stackoverflow.com/questions/38349486,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+38369015,https://stackoverflow.com/questions/38369015,User-created,Diagram,Desired output,Yes,No,No,Essential,No
+38426765,https://stackoverflow.com/questions/38426765,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+38445149,https://stackoverflow.com/questions/38445149,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+38469977,https://stackoverflow.com/questions/38469977,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+38565617,https://stackoverflow.com/questions/38565617,Desktop Application,Source code,Context understanding,No,Yes,No,Essential,No
+38598281,https://stackoverflow.com/questions/38598281,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+38605969,https://stackoverflow.com/questions/38605969,Desktop Application,Results,Undesired outpu,No,Yes,No,Not Essential,Yes
+38757654,https://stackoverflow.com/questions/38757654,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+38759113,https://stackoverflow.com/questions/38759113,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+38794593,https://stackoverflow.com/questions/38794593,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+38956591,https://stackoverflow.com/questions/38956591,Desktop Application,Source code,Undesired outpu,No,Yes,No,Not Essential,No
+38993860,https://stackoverflow.com/questions/38993860,Web Browser,Results,Desired output,Yes,Yes,No,Not Essential,No
+39022719,https://stackoverflow.com/questions/39022719,User-created,Diagram,Desired output,No,No,No,Not Essential,No
+39119984,https://stackoverflow.com/questions/39119984,Web Browser,User interface,Undesired outpu,No,No,No,Not Essential,No
+39130354,https://stackoverflow.com/questions/39130354,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+39209122,https://stackoverflow.com/questions/39209122,User-created,Diagram,Context understanding,No,Yes,No,Not Essential,Yes
+39221717,https://stackoverflow.com/questions/39221717,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+39299205,https://stackoverflow.com/questions/39299205,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+39366564,https://stackoverflow.com/questions/39366564,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+39463605,https://stackoverflow.com/questions/39463605,Mobile Application,User interface,Desired output,No,Yes,No,Not Essential,No
+39475912,https://stackoverflow.com/questions/39475912,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+39563666,https://stackoverflow.com/questions/39563666,Web Browser,Source code,Undesired outpu,No,Yes,Yes,Essential,Yes
+39688257,https://stackoverflow.com/questions/39688257,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+39754421,https://stackoverflow.com/questions/39754421,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+39796771,https://stackoverflow.com/questions/39796771,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+39860624,https://stackoverflow.com/questions/39860624,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+39906448,https://stackoverflow.com/questions/39906448,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+40017358,https://stackoverflow.com/questions/40017358,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+40064842,https://stackoverflow.com/questions/40064842,Mobile Application,User interface,Desired output,No,Yes,No,Not Essential,No
+40178219,https://stackoverflow.com/questions/40178219,Desktop Application,Results,Context understanding,No,Yes,No,Not Essential,Yes
+40236574,https://stackoverflow.com/questions/40236574,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+40275563,https://stackoverflow.com/questions/40275563,404,404,404,404,404,404,404,404
+40431489,https://stackoverflow.com/questions/40431489,Desktop Application,Source code,Undesired outpu,No,Yes,No,Not Essential,Yes
+40476240,https://stackoverflow.com/questions/40476240,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+40489974,https://stackoverflow.com/questions/40489974,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+40528708,https://stackoverflow.com/questions/40528708,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+40548299,https://stackoverflow.com/questions/40548299,Desktop Application,Source code,Undesired outpu,No,Yes,No,Not Essential,Yes
+40589217,https://stackoverflow.com/questions/40589217,Web Browser,Results,Undesired outpu,No,Yes,Yes,Not Essential,Yes
+40638572,https://stackoverflow.com/questions/40638572,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+40659001,https://stackoverflow.com/questions/40659001,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+40710883,https://stackoverflow.com/questions/40710883,Web Browser,Error code,Undesired outpu,No,Yes,No,Essential,No
+40724765,https://stackoverflow.com/questions/40724765,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+40766878,https://stackoverflow.com/questions/40766878,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+40786417,https://stackoverflow.com/questions/40786417,404,404,404,404,404,404,404,404
+40913688,https://stackoverflow.com/questions/40913688,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+41024131,https://stackoverflow.com/questions/41024131,Web Browser,Error code,Undesired outpu,No,Yes,No,Essential,No
+41056444,https://stackoverflow.com/questions/41056444,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+41192385,https://stackoverflow.com/questions/41192385,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+41234866,https://stackoverflow.com/questions/41234866,Web Browser,User interface,Context understanding,Yes,Yes,No,Not Essential,Yes
+41239326,https://stackoverflow.com/questions/41239326,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+41265845,https://stackoverflow.com/questions/41265845,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+41280021,https://stackoverflow.com/questions/41280021,Others,Others,Others,No,Yes,No,Not Essential,No
+41352213,https://stackoverflow.com/questions/41352213,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+41390026,https://stackoverflow.com/questions/41390026,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+41458047,https://stackoverflow.com/questions/41458047,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+41498939,https://stackoverflow.com/questions/41498939,Web Browser,configuration,Context understanding,No,Yes,Yes,Essential,Yes
+41556348,https://stackoverflow.com/questions/41556348,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+41572173,https://stackoverflow.com/questions/41572173,Mobile Application,Results,Undesired outpu,No,No,No,Essential,No
+41618453,https://stackoverflow.com/questions/41618453,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+41629441,https://stackoverflow.com/questions/41629441,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+41649762,https://stackoverflow.com/questions/41649762,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+41746395,https://stackoverflow.com/questions/41746395,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,Yes
+41832885,https://stackoverflow.com/questions/41832885,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+41902823,https://stackoverflow.com/questions/41902823,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+42020643,https://stackoverflow.com/questions/42020643,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+42117369,https://stackoverflow.com/questions/42117369,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+42188113,https://stackoverflow.com/questions/42188113,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+42290919,https://stackoverflow.com/questions/42290919,Desktop Application,Results,Context understanding,No,Yes,No,Not Essential,No
+42292342,https://stackoverflow.com/questions/42292342,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+42429876,https://stackoverflow.com/questions/42429876,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+42488431,https://stackoverflow.com/questions/42488431,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+42559669,https://stackoverflow.com/questions/42559669,Desktop Application,User interface,Undesired outpu,No,No,No,Essential,No
+42609691,https://stackoverflow.com/questions/42609691,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+42679273,https://stackoverflow.com/questions/42679273,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+42697868,https://stackoverflow.com/questions/42697868,Desktop Application,Diagram,Desired output,No,Yes,No,Essential,Yes
+42730630,https://stackoverflow.com/questions/42730630,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+42764229,https://stackoverflow.com/questions/42764229,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+42897458,https://stackoverflow.com/questions/42897458,Mobile Application,Results,Undesired outpu,No,Yes,No,Essential,No
+43064655,https://stackoverflow.com/questions/43064655,Desktop Application,Results,Undesired outpu,No,Yes,No,Not Essential,Yes
+43228576,https://stackoverflow.com/questions/43228576,Mobile Application,Results,Undesired outpu,No,Yes,No,Essential,No
+43283528,https://stackoverflow.com/questions/43283528,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+43294384,https://stackoverflow.com/questions/43294384,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+43323776,https://stackoverflow.com/questions/43323776,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+43353649,https://stackoverflow.com/questions/43353649,Web Browser,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+43483345,https://stackoverflow.com/questions/43483345,Desktop Application,Source code,Context understanding,No,Yes,No,Not Essential,Yes
+43518080,https://stackoverflow.com/questions/43518080,Desktop Application,Source code,Undesired outpu,Yes,Yes,Yes,Essential,Yes
+43593435,https://stackoverflow.com/questions/43593435,Web Browser,User interface,Context understanding,No,Yes,No,Essential,Yes
+43599036,https://stackoverflow.com/questions/43599036,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+43611400,https://stackoverflow.com/questions/43611400,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+43731150,https://stackoverflow.com/questions/43731150,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+43901749,https://stackoverflow.com/questions/43901749,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+43920593,https://stackoverflow.com/questions/43920593,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+43924907,https://stackoverflow.com/questions/43924907,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+43973503,https://stackoverflow.com/questions/43973503,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+44063042,https://stackoverflow.com/questions/44063042,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+44073387,https://stackoverflow.com/questions/44073387,Desktop Application,Results,Context understanding,No,Yes,Yes,Essential,No
+44108664,https://stackoverflow.com/questions/44108664,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+44128248,https://stackoverflow.com/questions/44128248,Mobile Application,User interface,Undesired outpu,No,Yes,Yes,Not Essential,No
+44128596,https://stackoverflow.com/questions/44128596,Web Browser,User interface,undesired output,Yes,Yes,No,Essential,No
+44156349,https://stackoverflow.com/questions/44156349,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+44218575,https://stackoverflow.com/questions/44218575,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+44219417,https://stackoverflow.com/questions/44219417,Mobile Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+44228157,https://stackoverflow.com/questions/44228157,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+44237309,https://stackoverflow.com/questions/44237309,User-created,Diagram,Context understanding,No,Yes,No,Not Essential,No
+44265425,https://stackoverflow.com/questions/44265425,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+44355687,https://stackoverflow.com/questions/44355687,Desktop Application,Error code,Undesired outpu,No,Yes,No,Essential,Yes
+44428889,https://stackoverflow.com/questions/44428889,Desktop Application,Source code,Undesired outpu,No,Yes,No,Not Essential,No
+44443646,https://stackoverflow.com/questions/44443646,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+44608013,https://stackoverflow.com/questions/44608013,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+44644647,https://stackoverflow.com/questions/44644647,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+44656500,https://stackoverflow.com/questions/44656500,Desktop Application,Error code,Undesired outpu,Yes,Yes,Yes,Essential,Yes
+44683224,https://stackoverflow.com/questions/44683224,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+44728761,https://stackoverflow.com/questions/44728761,Desktop Application,Source code,Context understanding,Yes,Yes,Yes,Essential,Yes
+44828766,https://stackoverflow.com/questions/44828766,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+44841684,https://stackoverflow.com/questions/44841684,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+44859953,https://stackoverflow.com/questions/44859953,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+44873757,https://stackoverflow.com/questions/44873757,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+44905204,https://stackoverflow.com/questions/44905204,Web Browser,Results,Undesired outpu,Yes,Yes,No,Essential,No
+44926763,https://stackoverflow.com/questions/44926763,Desktop Application,Source code,Context understanding,Yes,Yes,Yes,Essential,Yes
+44970932,https://stackoverflow.com/questions/44970932,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+45081802,https://stackoverflow.com/questions/45081802,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+45084163,https://stackoverflow.com/questions/45084163,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+45106674,https://stackoverflow.com/questions/45106674,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+45126502,https://stackoverflow.com/questions/45126502,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+45225654,https://stackoverflow.com/questions/45225654,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+45245275,https://stackoverflow.com/questions/45245275,Desktop Application,configuration,Context understanding,Yes,Yes,No,Not Essential,No
+45318228,https://stackoverflow.com/questions/45318228,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+45507463,https://stackoverflow.com/questions/45507463,Web Browser,User interface,Context understanding,Yes,No,No,Not Essential,No
+45558891,https://stackoverflow.com/questions/45558891,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+45598062,https://stackoverflow.com/questions/45598062,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,No
+45617797,https://stackoverflow.com/questions/45617797,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+45620624,https://stackoverflow.com/questions/45620624,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+45677725,https://stackoverflow.com/questions/45677725,Web Browser,Results,Context understanding,Yes,Yes,No,Not Essential,No
+45693405,https://stackoverflow.com/questions/45693405,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+45728326,https://stackoverflow.com/questions/45728326,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+45800760,https://stackoverflow.com/questions/45800760,User-created,Others,Context understanding,No,No,No,Essential,No
+45822188,https://stackoverflow.com/questions/45822188,Web Browser,Results,Undesired outpu,No,Yes,No,Not Essential,No
+45844224,https://stackoverflow.com/questions/45844224,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+45904488,https://stackoverflow.com/questions/45904488,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+45933890,https://stackoverflow.com/questions/45933890,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+45949741,https://stackoverflow.com/questions/45949741,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+45995483,https://stackoverflow.com/questions/45995483,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+46056942,https://stackoverflow.com/questions/46056942,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,Yes
+46209222,https://stackoverflow.com/questions/46209222,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+46225943,https://stackoverflow.com/questions/46225943,Desktop Application,User interface,Context understanding,Yes,No,No,Essential,No
+46282393,https://stackoverflow.com/questions/46282393,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+46296353,https://stackoverflow.com/questions/46296353,Desktop Application,Source code,Undesired outpu,No,Yes,Yes,Essential,Yes
+46381048,https://stackoverflow.com/questions/46381048,Desktop Application,Results,Undesired outpu,No,No,No,Not Essential,No
+46405466,https://stackoverflow.com/questions/46405466,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+46410342,https://stackoverflow.com/questions/46410342,Desktop Application,Error code,Undesired outpu,No,Yes,No,Not Essential,No
+46488914,https://stackoverflow.com/questions/46488914,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+46534870,https://stackoverflow.com/questions/46534870,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+46548864,https://stackoverflow.com/questions/46548864,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+46575753,https://stackoverflow.com/questions/46575753,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+46595846,https://stackoverflow.com/questions/46595846,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+46608229,https://stackoverflow.com/questions/46608229,Mobile Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+46784679,https://stackoverflow.com/questions/46784679,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+46806977,https://stackoverflow.com/questions/46806977,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+46890418,https://stackoverflow.com/questions/46890418,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+46934520,https://stackoverflow.com/questions/46934520,Web Browser,User interface,Desired output,No,No,No,Essential,No
+47024273,https://stackoverflow.com/questions/47024273,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+47046709,https://stackoverflow.com/questions/47046709,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+47202271,https://stackoverflow.com/questions/47202271,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+47268645,https://stackoverflow.com/questions/47268645,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+47380869,https://stackoverflow.com/questions/47380869,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+47390582,https://stackoverflow.com/questions/47390582,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+47392100,https://stackoverflow.com/questions/47392100,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+47456188,https://stackoverflow.com/questions/47456188,Web Browser,Results,Context understanding,No,Yes,Yes,Essential,Yes
+47600810,https://stackoverflow.com/questions/47600810,Web Browser,User interface,Context understanding,No,Yes,No,Essential,No
+47728836,https://stackoverflow.com/questions/47728836,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+47834271,https://stackoverflow.com/questions/47834271,Desktop Application,Source code,Undesired outpu,No,Yes,Yes,Essential,No
+47845308,https://stackoverflow.com/questions/47845308,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+47932772,https://stackoverflow.com/questions/47932772,User-created,Diagram,Desired output,No,No,No,Essential,No
+48064902,https://stackoverflow.com/questions/48064902,Desktop Application,Error code,Undesired outpu,No,Yes,No,Essential,Yes
+48069845,https://stackoverflow.com/questions/48069845,Desktop Application,Others,Context understanding,No,No,No,Essential,No
+48097688,https://stackoverflow.com/questions/48097688,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+48145952,https://stackoverflow.com/questions/48145952,Desktop Application,Results,Desired output,Yes,Yes,No,Essential,No
+48187370,https://stackoverflow.com/questions/48187370,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+48199609,https://stackoverflow.com/questions/48199609,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+48263620,https://stackoverflow.com/questions/48263620,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+48315946,https://stackoverflow.com/questions/48315946,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+48327444,https://stackoverflow.com/questions/48327444,Desktop Application,Source code,Context understanding,No,Yes,No,Essential,Yes
+48399091,https://stackoverflow.com/questions/48399091,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+48417520,https://stackoverflow.com/questions/48417520,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+48597121,https://stackoverflow.com/questions/48597121,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+48680416,https://stackoverflow.com/questions/48680416,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+48815453,https://stackoverflow.com/questions/48815453,Desktop Application,User interface,Context understanding,No,No,No,Not Essential,No
+48887966,https://stackoverflow.com/questions/48887966,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+49225211,https://stackoverflow.com/questions/49225211,User-created,User interface,Context understanding,No,Yes,No,Essential,Yes
+49244903,https://stackoverflow.com/questions/49244903,Desktop Application,Source code,Undesired outpu,No,Yes,No,Essential,Yes
+49294774,https://stackoverflow.com/questions/49294774,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,Yes
+49339619,https://stackoverflow.com/questions/49339619,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,Yes
+49359432,https://stackoverflow.com/questions/49359432,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+49484378,https://stackoverflow.com/questions/49484378,Web Browser,Error code,Undesired outpu,No,Yes,No,Not Essential,Yes
+49514783,https://stackoverflow.com/questions/49514783,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+49550612,https://stackoverflow.com/questions/49550612,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+49578174,https://stackoverflow.com/questions/49578174,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+49681135,https://stackoverflow.com/questions/49681135,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+49708444,https://stackoverflow.com/questions/49708444,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+49720913,https://stackoverflow.com/questions/49720913,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+49726812,https://stackoverflow.com/questions/49726812,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+49836084,https://stackoverflow.com/questions/49836084,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+49838267,https://stackoverflow.com/questions/49838267,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+49853282,https://stackoverflow.com/questions/49853282,Desktop Application,Source code,Context understanding,No,Yes,No,Essential,No
+49862598,https://stackoverflow.com/questions/49862598,Web Browser,configuration,Context understanding,Yes,Yes,No,Essential,No
+49864506,https://stackoverflow.com/questions/49864506,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,No
+49916759,https://stackoverflow.com/questions/49916759,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+49967258,https://stackoverflow.com/questions/49967258,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+50144463,https://stackoverflow.com/questions/50144463,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+50166571,https://stackoverflow.com/questions/50166571,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+50323268,https://stackoverflow.com/questions/50323268,Web Browser,User interface,Undesired outpu,No,Yes,Yes,Essential,No
+50342036,https://stackoverflow.com/questions/50342036,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+50352423,https://stackoverflow.com/questions/50352423,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+50614425,https://stackoverflow.com/questions/50614425,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+50631837,https://stackoverflow.com/questions/50631837,Desktop Application,Results,Context understanding,No,No,No,Essential,No
+50667187,https://stackoverflow.com/questions/50667187,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+50768595,https://stackoverflow.com/questions/50768595,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+50954640,https://stackoverflow.com/questions/50954640,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+50992962,https://stackoverflow.com/questions/50992962,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+51195263,https://stackoverflow.com/questions/51195263,User-created,Diagram,Desired output,Yes,No,No,Essential,No
+51249877,https://stackoverflow.com/questions/51249877,Mobile Application,User interface,Desired output,No,No,No,Not Essential,No
+51286739,https://stackoverflow.com/questions/51286739,Desktop Application,Results,Context understanding,Yes,Yes,No,Essential,No
+51287772,https://stackoverflow.com/questions/51287772,User-created,Diagram,Context understanding,No,Yes,No,Not Essential,No
+51323608,https://stackoverflow.com/questions/51323608,404,404,404,404,404,404,404,404
+51350992,https://stackoverflow.com/questions/51350992,User-created,Diagram,Context understanding,No,Yes,Yes,Essential,No
+51436065,https://stackoverflow.com/questions/51436065,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+51474815,https://stackoverflow.com/questions/51474815,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+51488899,https://stackoverflow.com/questions/51488899,Desktop Application,User interface,Undesired outpu,No,No,No,Not Essential,No
+51660812,https://stackoverflow.com/questions/51660812,Mobile Application,User interface,Desired output,No,Yes,No,Not Essential,No
+51750374,https://stackoverflow.com/questions/51750374,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+51883926,https://stackoverflow.com/questions/51883926,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+51933179,https://stackoverflow.com/questions/51933179,Desktop Application,Source code,Undesired outpu,No,Yes,Yes,Essential,Yes
+51945339,https://stackoverflow.com/questions/51945339,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+52258368,https://stackoverflow.com/questions/52258368,Desktop Application,Results,Undesired outpu,Yes,Yes,Yes,Essential,Yes
+52265670,https://stackoverflow.com/questions/52265670,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+52306809,https://stackoverflow.com/questions/52306809,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,Yes
+52337523,https://stackoverflow.com/questions/52337523,Mobile Application,User interface,Undesired outpu,No,No,No,Essential,No
+52368585,https://stackoverflow.com/questions/52368585,User-created,Diagram,Undesired outpu,No,Yes,No,Essential,No
+52424936,https://stackoverflow.com/questions/52424936,User-created,Diagram,Desired output,Yes,No,No,Essential,No
+52447775,https://stackoverflow.com/questions/52447775,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+52499915,https://stackoverflow.com/questions/52499915,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+52520924,https://stackoverflow.com/questions/52520924,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+52534058,https://stackoverflow.com/questions/52534058,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+52542965,https://stackoverflow.com/questions/52542965,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+52587702,https://stackoverflow.com/questions/52587702,Mobile Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+52640440,https://stackoverflow.com/questions/52640440,Web Browser,Results,Undesired outpu,No,Yes,No,Essential,Yes
+52673335,https://stackoverflow.com/questions/52673335,Web Browser,Results,Undesired outpu,No,Yes,No,Essential,Yes
+52819690,https://stackoverflow.com/questions/52819690,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+52821933,https://stackoverflow.com/questions/52821933,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,Yes
+52834214,https://stackoverflow.com/questions/52834214,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,No
+52887444,https://stackoverflow.com/questions/52887444,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+52954367,https://stackoverflow.com/questions/52954367,Web Browser,Results,Context understanding,No,Yes,No,Essential,Yes
+53009494,https://stackoverflow.com/questions/53009494,Desktop Application,configuration,Context understanding,No,Yes,Yes,Essential,No
+53103576,https://stackoverflow.com/questions/53103576,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,No
+53148193,https://stackoverflow.com/questions/53148193,Web Browser,User interface,undesired output,No,Yes,No,Essential,No
+53236515,https://stackoverflow.com/questions/53236515,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+53255112,https://stackoverflow.com/questions/53255112,Web Browser,User interface,Context understanding,No,No,No,Essential,No
+53314113,https://stackoverflow.com/questions/53314113,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,Yes
+53341114,https://stackoverflow.com/questions/53341114,Desktop Application,Others,Context understanding,No,Yes,No,Essential,Yes
+53347190,https://stackoverflow.com/questions/53347190,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+53474180,https://stackoverflow.com/questions/53474180,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+53556057,https://stackoverflow.com/questions/53556057,Desktop Application,Results,Context understanding,No,Yes,No,Essential,Yes
+53558484,https://stackoverflow.com/questions/53558484,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+53560923,https://stackoverflow.com/questions/53560923,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+53676113,https://stackoverflow.com/questions/53676113,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+53731997,https://stackoverflow.com/questions/53731997,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,No
+53743137,https://stackoverflow.com/questions/53743137,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+53762116,https://stackoverflow.com/questions/53762116,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+53789742,https://stackoverflow.com/questions/53789742,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+53801959,https://stackoverflow.com/questions/53801959,404,404,404,404,404,404,404,404
+53810161,https://stackoverflow.com/questions/53810161,Mobile Application,User interface,Undesired outpu,No,No,No,Essential,No
+53830480,https://stackoverflow.com/questions/53830480,Desktop Application,Results,Undesired outpu,No,No,No,Essential,No
+53859913,https://stackoverflow.com/questions/53859913,Desktop Application,Results,Context understanding,No,Yes,No,Not Essential,No
+53915927,https://stackoverflow.com/questions/53915927,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,Yes
+53923069,https://stackoverflow.com/questions/53923069,Desktop Application,Error code,Undesired outpu,Yes,Yes,Yes,Essential,No
+53972487,https://stackoverflow.com/questions/53972487,User-created,Diagram,Context understanding,Yes,Yes,No,Essential,Yes
+54051279,https://stackoverflow.com/questions/54051279,Web Browser,Source code,Undesired outpu,No,Yes,No,Not Essential,Yes
+54084055,https://stackoverflow.com/questions/54084055,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+54195840,https://stackoverflow.com/questions/54195840,Desktop Application,User interface,Context understanding,No,Yes,Yes,Not Essential,Yes
+54210805,https://stackoverflow.com/questions/54210805,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+54313286,https://stackoverflow.com/questions/54313286,Desktop Application,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+54356760,https://stackoverflow.com/questions/54356760,404,404,404,404,404,404,404,404
+54406167,https://stackoverflow.com/questions/54406167,Desktop Application,User interface,Context understanding,No,No,No,Not Essential,No
+54456918,https://stackoverflow.com/questions/54456918,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+54475784,https://stackoverflow.com/questions/54475784,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,No
+54549262,https://stackoverflow.com/questions/54549262,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+54637627,https://stackoverflow.com/questions/54637627,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+54771110,https://stackoverflow.com/questions/54771110,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Not Essential,No
+54781011,https://stackoverflow.com/questions/54781011,Desktop Application,User interface,Undesired outpu,No,Yes,Yes,Essential,Yes
+54809604,https://stackoverflow.com/questions/54809604,Mobile Application,Results,Undesired outpu,No,Yes,No,Essential,No
+54836262,https://stackoverflow.com/questions/54836262,Desktop Application,Error code,Undesired outpu,No,Yes,No,Essential,No
+54876380,https://stackoverflow.com/questions/54876380,Mobile Application,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+54925926,https://stackoverflow.com/questions/54925926,Web Browser,Source code,Undesired outpu,No,Yes,No,Not Essential,Yes
+54934984,https://stackoverflow.com/questions/54934984,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+54941406,https://stackoverflow.com/questions/54941406,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+54955823,https://stackoverflow.com/questions/54955823,Web Browser,Source code,Undesired outpu,No,Yes,Yes,Not Essential,Yes
+55001571,https://stackoverflow.com/questions/55001571,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+55072619,https://stackoverflow.com/questions/55072619,Web Browser,User interface,Undesired outpu,No,No,No,Essential,No
+55077736,https://stackoverflow.com/questions/55077736,404,404,404,404,404,404,404,404
+55084074,https://stackoverflow.com/questions/55084074,Web Browser,User interface,Context understanding,Yes,Yes,No,Essential,No
+55110340,https://stackoverflow.com/questions/55110340,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+55155092,https://stackoverflow.com/questions/55155092,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+55155461,https://stackoverflow.com/questions/55155461,Desktop Application,Results,Undesired outpu,No,Yes,Yes,Essential,Yes
+55247284,https://stackoverflow.com/questions/55247284,404,404,404,404,404,404,404,404
+55300277,https://stackoverflow.com/questions/55300277,Desktop Application,Error code,Context understanding,No,Yes,Yes,Essential,Yes
+55311195,https://stackoverflow.com/questions/55311195,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+55321505,https://stackoverflow.com/questions/55321505,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+55342975,https://stackoverflow.com/questions/55342975,Desktop Application,Error code,Context understanding,No,Yes,Yes,Essential,Yes
+55362287,https://stackoverflow.com/questions/55362287,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+55513477,https://stackoverflow.com/questions/55513477,User-created,Diagram,Context understanding,Yes,Yes,No,Not Essential,No
+55582957,https://stackoverflow.com/questions/55582957,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+55625471,https://stackoverflow.com/questions/55625471,Mobile Application,User interface,Context understanding,No,Yes,No,Essential,No
+55673955,https://stackoverflow.com/questions/55673955,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+55708270,https://stackoverflow.com/questions/55708270,Mobile Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+55795652,https://stackoverflow.com/questions/55795652,Web Browser,User interface,Context understanding,Yes,Yes,No,Not Essential,No
+55797008,https://stackoverflow.com/questions/55797008,404,404,404,404,404,404,404,404
+55825118,https://stackoverflow.com/questions/55825118,404,404,404,404,404,404,404,404
+55893427,https://stackoverflow.com/questions/55893427,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+55902579,https://stackoverflow.com/questions/55902579,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+55931535,https://stackoverflow.com/questions/55931535,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+55933384,https://stackoverflow.com/questions/55933384,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,No
+55947482,https://stackoverflow.com/questions/55947482,404,404,404,404,404,404,404,404
+55987664,https://stackoverflow.com/questions/55987664,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+56000042,https://stackoverflow.com/questions/56000042,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+56120132,https://stackoverflow.com/questions/56120132,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+56227415,https://stackoverflow.com/questions/56227415,Mobile Application,Results,Context understanding,No,Yes,No,Essential,No
+56244148,https://stackoverflow.com/questions/56244148,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+56435707,https://stackoverflow.com/questions/56435707,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+56492002,https://stackoverflow.com/questions/56492002,Desktop Application,configuration,Context understanding,Yes,Yes,Yes,Essential,No
+56499758,https://stackoverflow.com/questions/56499758,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+56500628,https://stackoverflow.com/questions/56500628,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,Yes
+56536284,https://stackoverflow.com/questions/56536284,404,404,404,404,404,404,404,404
+56541061,https://stackoverflow.com/questions/56541061,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+56591127,https://stackoverflow.com/questions/56591127,404,404,404,404,404,404,404,404
+56607682,https://stackoverflow.com/questions/56607682,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+56616684,https://stackoverflow.com/questions/56616684,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+56647865,https://stackoverflow.com/questions/56647865,Desktop Application,Source code,Undesired outpu,No,Yes,Yes,Essential,Yes
+56651482,https://stackoverflow.com/questions/56651482,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+56693884,https://stackoverflow.com/questions/56693884,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,No
+56764492,https://stackoverflow.com/questions/56764492,Web Browser,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+56779478,https://stackoverflow.com/questions/56779478,Web Browser,Results,Undesired outpu,No,Yes,No,Not Essential,No
+56790372,https://stackoverflow.com/questions/56790372,User-created,Results,Context understanding,No,Yes,No,Not Essential,Yes
+56806118,https://stackoverflow.com/questions/56806118,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+56853215,https://stackoverflow.com/questions/56853215,Mobile Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+57011918,https://stackoverflow.com/questions/57011918,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+57027884,https://stackoverflow.com/questions/57027884,404,404,404,404,404,404,404,404
+57054244,https://stackoverflow.com/questions/57054244,Web Browser,Results,Undesired outpu,No,Yes,No,Essential,No
+57075164,https://stackoverflow.com/questions/57075164,Web Browser,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+57087230,https://stackoverflow.com/questions/57087230,Web Browser,Source code,Undesired outpu,No,Yes,No,Not Essential,Yes
+57117926,https://stackoverflow.com/questions/57117926,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+57119017,https://stackoverflow.com/questions/57119017,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+57141401,https://stackoverflow.com/questions/57141401,Desktop Application,Error code,Context understanding,Yes,Yes,No,Not Essential,Yes
+57263260,https://stackoverflow.com/questions/57263260,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+57263276,https://stackoverflow.com/questions/57263276,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+57299227,https://stackoverflow.com/questions/57299227,Mobile Application,Results,Undesired outpu,No,Yes,No,Essential,No
+57301858,https://stackoverflow.com/questions/57301858,Desktop Application,User interface,Undesired outpu,No,Yes,No,Essential,No
+57405539,https://stackoverflow.com/questions/57405539,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+57474332,https://stackoverflow.com/questions/57474332,Desktop Application,Results,Undesired outpu,No,No,No,Not Essential,No
+57480616,https://stackoverflow.com/questions/57480616,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,Yes
+57506567,https://stackoverflow.com/questions/57506567,Web Browser,User interface,Context understanding,No,Yes,No,Not Essential,No
+57518693,https://stackoverflow.com/questions/57518693,Web Browser,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+57555624,https://stackoverflow.com/questions/57555624,Desktop Application,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+57570610,https://stackoverflow.com/questions/57570610,Desktop Application,User interface,Context understanding,Yes,Yes,No,Essential,No
+57576636,https://stackoverflow.com/questions/57576636,Desktop Application,Source code,Context understanding,No,Yes,Yes,Essential,Yes
+57605612,https://stackoverflow.com/questions/57605612,Web Browser,User interface,Desired output,No,Yes,No,Essential,Yes
+57605830,https://stackoverflow.com/questions/57605830,404,404,404,404,404,404,404,404
+57727063,https://stackoverflow.com/questions/57727063,404,404,404,404,404,404,404,404
+57744741,https://stackoverflow.com/questions/57744741,Web Browser,User interface,Undesired outpu,Yes,Yes,No,Essential,No
+57880892,https://stackoverflow.com/questions/57880892,User-created,Diagram,Context understanding,No,Yes,No,Essential,No
+57896291,https://stackoverflow.com/questions/57896291,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+57897726,https://stackoverflow.com/questions/57897726,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+58030482,https://stackoverflow.com/questions/58030482,Web Browser,User interface,Desired output,Yes,Yes,No,Essential,No
+58035496,https://stackoverflow.com/questions/58035496,Web Browser,User interface,Undesired outpu,No,Yes,No,Not Essential,No
+58037208,https://stackoverflow.com/questions/58037208,Web Browser,configuration,Context understanding,No,Yes,No,Essential,No
+58039380,https://stackoverflow.com/questions/58039380,Desktop Application,User interface,Undesired outpu,No,Yes,No,Not Essential,Yes
+58255579,https://stackoverflow.com/questions/58255579,404,404,404,404,404,404,404,404
+58263845,https://stackoverflow.com/questions/58263845,404,404,404,404,404,404,404,404
+58399321,https://stackoverflow.com/questions/58399321,Desktop Application,User interface,Context understanding,No,Yes,Yes,Essential,Yes
+58421976,https://stackoverflow.com/questions/58421976,Desktop Application,Diagram,Context understanding,No,Yes,No,Essential,No
+58483925,https://stackoverflow.com/questions/58483925,Desktop Application,Results,Undesired outpu,No,Yes,No,Essential,No
+58520128,https://stackoverflow.com/questions/58520128,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,Yes
+58548705,https://stackoverflow.com/questions/58548705,Desktop Application,Results,Context understanding,No,Yes,No,Essential,No
+58553312,https://stackoverflow.com/questions/58553312,404,404,404,404,404,404,404,404
+58562578,https://stackoverflow.com/questions/58562578,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,Yes
+58573870,https://stackoverflow.com/questions/58573870,Web Browser,User interface,Context understanding,No,Yes,No,Essential,Yes
+58593492,https://stackoverflow.com/questions/58593492,Web Browser,User interface,Undesired outpu,No,Yes,No,Essential,No
+58622264,https://stackoverflow.com/questions/58622264,Web Browser,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
+58624787,https://stackoverflow.com/questions/58624787,Desktop Application,User interface,Undesired outpu,No,No,No,Not Essential,No
+58751349,https://stackoverflow.com/questions/58751349,Mobile Application,User interface,Desired output,No,Yes,No,Essential,No
+58972471,https://stackoverflow.com/questions/58972471,Web Browser,User interface,Desired output,No,Yes,No,Essential,No
+58992234,https://stackoverflow.com/questions/58992234,404,404,404,404,404,404,404,404
+58996792,https://stackoverflow.com/questions/58996792,Desktop Application,User interface,Context understanding,No,Yes,No,Essential,No
+59039315,https://stackoverflow.com/questions/59039315,Desktop Application,User interface,Context understanding,No,Yes,No,Not Essential,Yes
+59069546,https://stackoverflow.com/questions/59069546,Desktop Application,User interface,Desired output,No,Yes,No,Essential,No
+59080133,https://stackoverflow.com/questions/59080133,User-created,Diagram,Desired output,No,Yes,No,Essential,No
+59100325,https://stackoverflow.com/questions/59100325,404,404,404,404,404,404,404,404
+59108773,https://stackoverflow.com/questions/59108773,Desktop Application,Error code,Undesired outpu,No,Yes,Yes,Essential,Yes
