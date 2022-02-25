@@ -8,8 +8,8 @@ Towards automated identification of image characteristics, our trained classifie
 Furthermore, we inject image related features into a state-of-the-art approach for identifying related questions. Our results show that adding image related features improves performance, with higher F1-scores.
 Our work presents a first step towards understanding images in Stack Overflow and opens up future avenues for using images to support developer tasks.
 ## Contents
-* `Dataset` - a directory of the dataset
-	* `500_SATD_Comments.csv` - results of RQ1: open coding and card sorting SATD comments in Maven repositories.
+* `Dataset` - a directory of the dataset that are used in RQ1-3
+	* `RQ1` - 
 		* `Comment Location` - where the SATD comment store at in the repository.
 		* `Comment` - the content of the SATD comment.
 		* `Keywords` - the set of keywords which are used to extract SATD comment.
