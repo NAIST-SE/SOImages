@@ -20,11 +20,11 @@ Our work presents a first step towards understanding images in Stack Overflow an
 
 		
 ## Authors
-- [Dong Wang](https://dong-w.github.io/)
-- [Syful Islam]()
-- [Tao Xiao](https://tao-xiao.github.io/)
-- [Christoph Treude](https://ctreude.ca/)
-- [Raula Gaikovina Kula](https://raux.github.io/)
-- [Hideaki Hata](https://hideakihata.github.io/)
-- [Zheng Chen]()
-- [Kenichi Matsumoto](https://matsumotokenichi.github.io/)
+- [Dong Wang](https://dong-w.github.io/) - Nara Institute of Science and Technology
+- [Syful Islam]() - Nara Institute of Science and Technology
+- [Tao Xiao](https://tao-xiao.github.io/) - Nara Institute of Science and Technology
+- [Christoph Treude](https://ctreude.ca/) - The University of Melbourne
+- [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology
+- [Hideaki Hata](https://hideakihata.github.io/) - Shinshu University
+- [Zheng Chen]() - Osaka University
+- [Kenichi Matsumoto](https://matsumotokenichi.github.io/) - Nara Institute of Science and Technology
