@@ -9,7 +9,7 @@ Furthermore, we inject image related features into a state-of-the-art approach f
 Our work presents a first step towards understanding images in Stack Overflow and opens up future avenues for using images to support developer tasks.
 ## Authors
 - [Dong Wang](https://dong-w.github.io/)
-- [Syful Islam]
+- [Syful Islam]()
 - [Tao Xiao](https://tao-xiao.github.io/)
 - [Christoph Treude](https://ctreude.ca/)
 - [Raula Gaikovina Kula](https://raux.github.io/)
