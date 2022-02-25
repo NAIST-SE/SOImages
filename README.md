@@ -18,6 +18,8 @@ Our work presents a first step towards understanding images in Stack Overflow an
 	* `RQ3` - 
 		* `RQ3_data.csv` - the question unit pairs that are used in RQ3.
 * `Script` - a directory of the scripts that are used in RQ2 (classifier) and RQ3 (question relatedness detection)
+	* `RQ2_classifier` - includes the scripts that are used to classify image characteristics.
+	* `RQ3_relatedness_SOFT` - includes the scripts that are used to replicate SOFTSVM model 
 
 		
 ## Authors
