@@ -8,3 +8,11 @@ Towards automated identification of image characteristics, our trained classifie
 Furthermore, we inject image related features into a state-of-the-art approach for identifying related questions. Our results show that adding image related features improves performance, with higher F1-scores.
 Our work presents a first step towards understanding images in Stack Overflow and opens up future avenues for using images to support developer tasks.
 ## Authors
+- [Dong Wang](https://dong-w.github.io/)
+- [Syful Islam]
+- [Tao Xiao](https://tao-xiao.github.io/)
+- [Christoph Treude](https://ctreude.ca/)
+- [Raula Gaikovina Kula](https://raux.github.io/)
+- [Hideaki Hata](https://hideakihata.github.io/)
+- [Zheng Chen]()
+- [Kenichi Matsumoto](https://matsumotokenichi.github.io/)
