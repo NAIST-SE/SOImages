@@ -15,6 +15,9 @@ Our work presents a first step towards understanding images in Stack Overflow an
 		* `RQ2_data.xlsx` - the question data that is used in RQ2 with various attributes (question title, body, tag, image link, image source, image content, image purposes).		
 		* `Image_text_extract_paddleocr_RQ2.xlsx' - the text that is extracted from the image using paddleocr.
 		* `Image_RQ2.zip` - a set of images. 
+	* `RQ3` - 
+* `Script` - a directory of the scripts that are used in RQ2 (classifier) and RQ3 (question relatedness detection)
+
 		
 ## Authors
 - [Dong Wang](https://dong-w.github.io/)
