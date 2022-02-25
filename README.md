@@ -10,11 +10,11 @@ Our work presents a first step towards understanding images in Stack Overflow an
 ## Contents
 * `Dataset` - a directory of the dataset that are used in RQ1-3
 	* `RQ1` - 
-		* `Image_Manual_Classify_768.csv` - all the manual classification of RQ1, i.e., image source, image content, image purpises and so on.
+		* `Image_Manual_Classify_768.csv` - all the manual classification of RQ1, i.e., image source, image content, image purposes and so on.
 	* `RQ2` -
-		* `RQ2_data.xlsx` - the question data that is used in RQ2 with various attributes (question title, body, image link 		
-		* `Image_text_extract_paddleocr_RQ2.xlsx' - the text that is extracted from the image using paddleocr
-		* `Image_RQ2.zip` - a set of images 
+		* `RQ2_data.xlsx` - the question data that is used in RQ2 with various attributes (question title, body, tag, image link, image source, image content, image purposes).		
+		* `Image_text_extract_paddleocr_RQ2.xlsx' - the text that is extracted from the image using paddleocr.
+		* `Image_RQ2.zip` - a set of images. 
 		
 ## Authors
 - [Dong Wang](https://dong-w.github.io/)
