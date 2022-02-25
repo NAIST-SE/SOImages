@@ -29,5 +29,4 @@ Our work presents a first step towards understanding images in Stack Overflow an
 - [Christoph Treude](https://ctreude.ca/) - The University of Melbourne
 - [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology
 - [Hideaki Hata](https://hideakihata.github.io/) - Shinshu University
-- [Zheng Chen]() - Osaka University
 - [Kenichi Matsumoto](https://matsumotokenichi.github.io/) - Nara Institute of Science and Technology
