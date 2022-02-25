@@ -10,12 +10,12 @@ Our work presents a first step towards understanding images in Stack Overflow an
 ## Contents
 * `Dataset` - a directory of the dataset that are used in RQ1-3
 	* `RQ1` - 
-		* `Comment Location` - where the SATD comment store at in the repository.
-		* `Comment` - the content of the SATD comment.
-		* `Keywords` - the set of keywords which are used to extract SATD comment.
-		* `Location` - where the SATD comment store at in the build file.
-		* `Reason` - why the SATD occure in the build file.
-		* `Purpose` - why the developer left the SATD comment in the build file.
+		* `Image_Manual_Classify_768.csv` - all the manual classification of RQ1, i.e., image source, image content, image purpises and so on.
+	* `RQ2` -
+		* `RQ2_data.xlsx` - the question data that is used in RQ2 with various attributes (question title, body, image link 		
+		* `Image_text_extract_paddleocr_RQ2.xlsx' - the text that is extracted from the image using paddleocr
+		* `Image_RQ2.zip` - a set of images 
+		
 ## Authors
 - [Dong Wang](https://dong-w.github.io/)
 - [Syful Islam]()
