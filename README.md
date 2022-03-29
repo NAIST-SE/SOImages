@@ -23,7 +23,7 @@ Our work presents a first step towards understanding images in Stack Overflow an
 
 		
 ## Authors
-- [Dong Wang](https://dong-w.github.io/) - Nara Institute of Science and Technology
+- [Dong Wang](https://dong-w.github.io/) - Kyushu University
 - [Syful Islam]() - Nara Institute of Science and Technology
 - [Tao Xiao](https://tao-xiao.github.io/) - Nara Institute of Science and Technology
 - [Christoph Treude](https://ctreude.ca/) - The University of Melbourne
